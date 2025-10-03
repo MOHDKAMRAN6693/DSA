@@ -9,6 +9,10 @@ DSA/
 ├── strings/           # String manipulation algorithms
 ├── arrays/            # Array processing algorithms  
 ├── algorithms/        # General algorithmic problems
+├── data-structures/   # Stack, Queue, Linked List implementations
+├── searching/         # Binary search and search algorithms
+├── sorting/           # Various sorting algorithms
+├── linked-lists/      # Linked list operations and algorithms
 ├── index.js           # Centralized access to all solutions
 └── README.md          # This file
 ```
@@ -20,12 +24,38 @@ DSA/
 - **Palindrome Check** - Case-insensitive palindrome detection
 - **First Non-Repeating Character** - Find index of first unique character
 - **Count Vowels & Consonants** - Character frequency analysis
+- **Longest Substring** - Find longest substring without repeating characters
+- **Validate Parentheses** - Check balanced brackets with multiple types
+- **Group Anagrams** - Group strings by anagram with statistics
 
 ### Array Algorithms  
 - **Largest & Smallest Numbers** - Find min/max with indices
 - **Remove Duplicates** - Multiple deduplication strategies
 - **Custom Map/Filter** - Implement Array.prototype methods
 - **Merge Sorted Arrays** - Efficient merging with duplicate handling
+- **Two Sum** - Find two numbers that add up to target
+- **Majority Element** - Find majority element using Boyer-Moore algorithm
+- **Rotate Array** - Rotate array by k steps (in-place and extra space)
+- **Array Intersection** - Find intersection of two arrays
+- **Kth Largest Element** - Find kth largest using multiple approaches
+
+### Data Structures
+- **Stack Implementation** - Array-based stack with advanced features
+- **Queue Using Stacks** - Implement queue using two stacks
+- **Linked List** - Complete linked list with cycle detection and reversal
+
+### Searching Algorithms
+- **Binary Search** - Multiple variations (first, last, insertion position)
+- **Search Applications** - Range search and closest element finding
+
+### Sorting Algorithms
+- **Bubble Sort** - Simple sorting with optimization
+- **Quick Sort** - Efficient divide-and-conquer sorting
+- **Merge Sort** - Stable sorting with O(n log n) complexity
+- **Selection Sort** - Simple in-place sorting
+- **Insertion Sort** - Efficient for small datasets
+- **Heap Sort** - In-place sorting using heap data structure
+- **Counting Sort** - Linear time sorting for small ranges
 
 ### General Algorithms
 - **Factorial** - Iterative, recursive, and optimized implementations
